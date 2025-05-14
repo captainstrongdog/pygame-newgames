@@ -1,2 +1,2 @@
 # pygame-newgames
-<h1>warren's pygames</h1>
+<h3>list of pygames</h3>
